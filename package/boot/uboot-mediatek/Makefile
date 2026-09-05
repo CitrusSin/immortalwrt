@@ -1375,7 +1375,6 @@ UBOOT_TARGETS := \
 	mt7981_konka_komi-a31-emmc \
 	mt7981_konka_komi-a31-nor \
 	mt7981_livinet_zr-3020 \
-	mt7981_mercusys_mr85x \
 	mt7981_netcore_n30-pro \
 	mt7981_netis_eap930-v1 \
 	mt7981_netis_nx30v2 \
